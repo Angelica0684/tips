@@ -10,7 +10,7 @@ created: 2018-12-27
 ```
 
 
-## Simple Summary
+Withdraw rewards:THbSqXPW31jVfe5fzUs7egahTtHnbhPSJS
 
 This doc describes the  standard interface of Account Multi-signature
 
